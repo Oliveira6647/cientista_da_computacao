@@ -1,0 +1,58 @@
+# 🧠 **Programador Autodidata: Projeto Completo em Python**
+
+> 📘 Projeto prático baseado no livro _“O Programador Autodidata”_ de **Cory Althoff**
+
+Este repositório reúne **todo o conteúdo prático do livro**, organizado por capítulos e comentado.
+Ideal para quem está começando e deseja dominar Python com **fundamentos sólidos**, ferramentas do dia a dia e mini projetos reais.
+
+---
+
+## 🚀 **O que você vai encontrar aqui**
+
+✔️ Sintaxe básica de Python e lógica de programação
+✔️ Funções, listas, dicionários, tuplas, conjuntos e containers
+✔️ Manipulação de arquivos `.txt` e `.csv`
+✔️ Orientação a Objetos (OOP), Regex, Bash, Git, PIP, e mais
+✔️ Mini projetos práticos como **Jogo da Forca** e **Jogo de Cartas**
+
+---
+
+## 📁 **Estrutura do Projeto**
+
+Organizado por capítulos:
+`capitulo_03.py` até `capitulo_22.py`
++ arquivos extras: `dados.csv`, `pessoas.csv`, `.txt`
+
+---
+
+## 👨‍💻 **Sobre Mim**
+
+**Márcio Oliveira**
+📍 Araguari - MG
+💻 Estudando para atuar como desenvolvedor Python profissional
+🎓 Cursos: Gustavo Guanabara, Ciência de Dados com Python (Udemy)
+
+📧 **oliveira6647@gmail.com**
+🔗 [Meu GitHub](https://github.com/Oliveira6647)
+
+---
+
+## 💼 **Por que este projeto é importante?**
+
+✅ Demonstra prática real com a linguagem Python
+✅ Organização clara e didática para aprendizados futuros
+✅ Ideal como base de portfólio para entrevistas e freelas
+✅ Prova minha dedicação como autodidata
+
+---
+
+## 🌟 **Contribua com minha jornada!**
+
+⭐ Dê uma estrela no repositório
+🍴 Faça um fork para acompanhar minha evolução
+📬 Me chame para conversar ou colaborar!
+
+---
+
+> _“Programar é transformar ideias em realidade. Aqui estão minhas ideias em código.”_
+> — **Márcio Oliveira**
